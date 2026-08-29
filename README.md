@@ -7,7 +7,8 @@ https://github.com/user-attachments/assets/c4980a3f-b9c0-4678-8482-9397a2b0f92a
 ## Install
 
 Codex にこう投げる。
-`$skill-installer https://github.com/haw2fregel-lab/right-depth`
+
+`$skill-installer --repo haw2fregel-lab/right-depth --path . --name right-depth`
 
 ## License
 
